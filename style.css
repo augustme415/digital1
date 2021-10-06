@@ -111,16 +111,16 @@ hr.one {
 	margin-top: 50px;
 	border: none;
 	border-radius: 10px;
-	background : #777 ;
+	background : #bcbec0 ;
 	text-align: center;
 }
 
 hr.two {
-	height: 5px;
+	height: 4.5px;
 	margin-top: 50px;
 	border: none;
 	border-radius: 10px;
-	background : #777 ;
+	background : #bcbec0 ;
 	text-align: center;
 	margin-top: 50px;
 }
